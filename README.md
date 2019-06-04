@@ -22,3 +22,6 @@ Order of scripts:
 3_stoichsummary_stats_AT1:
 	•	Calculates average stoichiometry for each of the four conditions (AT-1S113R/+ (KI) and AT-1 sTg (TG) and their 			wild type litter-mates)
 	•	Calculates statistical significance using one-way analysis of variance (ANOVA)
+
+Cite as:
+alawton2. (2019, June 4). alawton2/AT1_AcetylationStoich: First release AcStoich (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3238525
